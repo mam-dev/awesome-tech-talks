@@ -25,6 +25,10 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
 ### Deployment
 
+### Virtualization & Containers
+
+* [Automated Development Environments with Vagrant](http://youtu.be/Im4wNqlolqQ) [52 min, 2013] – Vagrant intro by its author.
+
 
 ## Other Lists
 
