@@ -8,6 +8,8 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
 ## Languages
 
+* [Challenges & Chances In Polyglot Programming](http://youtu.be/VUr_JTNKAFo) [54 min, GOTO 2012] – “Mono cultures are unhealthy.” 'Nuff said!
+
 
 ## Tools
 
