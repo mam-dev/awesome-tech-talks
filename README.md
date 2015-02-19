@@ -38,7 +38,7 @@ Similar lists of talks.
 
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) – A list of online talks that people really enjoyed watching, and that are worthy of your time.
 * [Awesome Python Talks](https://github.com/jhermann/awesome-python-talks) – An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
-
+* [Programming Talks](https://github.com/hellerve/programming-talks) – Programmng languages, computer science, software architecture and design.
 
 ## Contributing
 
