@@ -11,6 +11,11 @@ and be it only to get a glimpse across the fence (or wall, most often).
 * [Challenges & Chances In Polyglot Programming](http://youtu.be/VUr_JTNKAFo) [54 min, GOTO 2012] – “Mono cultures are unhealthy.” 'Nuff said!
 
 
+## DevOps
+
+* [DevOps Culture & Practices to Create Flow](http://youtu.be/mBUJ-fg4EKA) [48 min, goto Chicago 2014] – Jez HUmble on behaviors, rituals and processes that are essential to create fast flow of features into production, ultimately creating a culture of continuous learning leading to happy users, fast flow and fulfilled practitioners.
+
+
 ## Tools
 
 ### Version Control
