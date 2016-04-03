@@ -19,7 +19,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
 ## DevOps
 
-* [DevOps Culture & Practices to Create Flow](http://youtu.be/mBUJ-fg4EKA) [48 min, goto Chicago 2014] – Jez HUmble on behaviors, rituals and processes that are essential to create fast flow of features into production, ultimately creating a culture of continuous learning leading to happy users, fast flow and fulfilled practitioners.
+* [DevOps Culture & Practices to Create Flow](http://youtu.be/mBUJ-fg4EKA) [48 min, goto Chicago 2014] – Jez Humble on behaviors, rituals and processes that are essential to create fast flow of features into production, ultimately creating a culture of continuous learning leading to happy users, fast flow and fulfilled practitioners.
 
 
 ## Tools
