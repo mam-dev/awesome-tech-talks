@@ -9,6 +9,9 @@ and be it only to get a glimpse across the fence (or wall, most often).
 ## (Soft) Skills
 
 * [Engineering You](http://www.infoq.com/presentations/engineer-practices-techniques) [45 min, InfoQ 2016] – Martin Thompson takes a look at ‘engineering’ in the software industry, and which individual practices and techniques help to bring out the engineer in every developer.
+* [Scaling Yourself](https://youtu.be/FS1mnISoG7U) [29 min, goto 2012] –
+  Scott Hanselman shows how to achieve more in the time you have,
+  by prioritizing the right things, and doing less busy work with no value.
 * [Generating a Culture of Doc](https://youtu.be/v41nPTpXnHQ) [33 min, Write the Docs 2013] – Leah Cutter describes ways to encourage engineers to do the ‘write thing’.
 
 
