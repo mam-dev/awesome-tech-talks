@@ -20,6 +20,8 @@ and be it only to get a glimpse across the fence (or wall, most often).
 * [Software, Faster](https://youtu.be/USc-yLHXNUg) [54 min, goto 2016] –
   Dan North presents a selection of his evolving
   [Software, Faster](https://leanpub.com/softwarefaster) organizational patterns.
+* [#NoProjects Beyond Projects · Why Projects Are Wrong & What To Do Instead](https://youtu.be/Rzglax8LdaM) [53 min, goto 2015] –
+  Products over projects. Continuous, not temporary. Outcomes over meeting auxiliary goals.
 
 
 ## Languages
