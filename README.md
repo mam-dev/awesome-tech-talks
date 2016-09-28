@@ -15,6 +15,13 @@ and be it only to get a glimpse across the fence (or wall, most often).
 * [Generating a Culture of Doc](https://youtu.be/v41nPTpXnHQ) [33 min, Write the Docs 2013] – Leah Cutter describes ways to encourage engineers to do the ‘write thing’.
 
 
+## Agile / Team / Management
+
+* [Software, Faster](https://youtu.be/USc-yLHXNUg) [54 min, goto 2016] –
+  Dan North presents a selection of his evolving
+  [Software, Faster](https://leanpub.com/softwarefaster) organizational patterns.
+
+
 ## Languages
 
 * [Challenges & Chances In Polyglot Programming](http://youtu.be/VUr_JTNKAFo) [54 min, GOTO 2012] – “Mono cultures are unhealthy.” 'Nuff said!
