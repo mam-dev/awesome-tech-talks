@@ -29,10 +29,16 @@ and be it only to get a glimpse across the fence (or wall, most often).
 * [Challenges & Chances In Polyglot Programming](http://youtu.be/VUr_JTNKAFo) [54 min, GOTO 2012] – “Mono cultures are unhealthy.” 'Nuff said!
 
 
-## (Rugged) DevOps
+## Technology
+
+### (Rugged) DevOps
 
 * [DevOps Culture & Practices to Create Flow](http://youtu.be/mBUJ-fg4EKA) [48 min, goto Chicago 2014] – Jez Humble on behaviors, rituals and processes that are essential to create fast flow of features into production, ultimately creating a culture of continuous learning leading to happy users, fast flow and fulfilled practitioners.
 * [Even Faster: How Rugged DevOps & SW Supply Chains Attack Developer Waste • Joshua Corman](https://youtu.be/dogofef4HWg) \[50 min, GOTO 2016] – The former Sonatype CTO shows how supply chain hygiene and rugged devops help to not only increase software security and quality, but also boost productivity by avoiding unplanned ad-hoc work (i.e. waste).
+
+### Cloud & Containers
+
+ * [Project Calico & Istio: Application Connectivity at Scale﻿](https://youtu.be/r3lNEoitxps) [65 min, SRE NYC 2017] – Application connectivity at scale using a s service mesh﻿. How *Project Calico* and *Istio* complement each other by covering common requirements in OSI layers 3 to 7. Shortly explains the challenges of managing services, their endpoints, and connecting them, and then shows how the components in the 2 projects help to master them, and where they are placed and play together,
 
 
 ## Tools
