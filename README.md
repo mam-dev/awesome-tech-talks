@@ -49,6 +49,9 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
 ### Project Automation
 
+ * [Engineering Effectiveness at Twitter](https://youtu.be/8IyXcLFO9ns) \[28 min, @scale 2015] – Manage tooling and technology portfolios by applying *“Let a 1,000 flowers bloom – then rip 999 of them out by the roots.”* See also the related [blog post](http://www.gigamonkeys.com/flowers/).
+
+
 ### Testing
 
 ### Continuous Integration
