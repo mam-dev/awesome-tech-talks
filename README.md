@@ -25,6 +25,11 @@ and be it only to get a glimpse across the fence (or wall, most often).
 * [Fearless Change · Myths and Patterns of Organizational Change](https://youtu.be/TXvRWea_sEI) [45 min, Agile Israel 2015] – Linda Rising offers proven change management strategies to help you become a more successful agent of change in your organization.
 
 
+## Open Source
+
+[The Impact of Leveraging Open Source](https://www.youtube.com/watch?v=jwrSMj-Prfw&feature=youtu.be) [51 min, Devoxx Belgium 2017] – Very nice introduction to Open Source (in the enterprise) and its major licenses by Jeff Strauss, an actual (but recovering) lawyer.
+
+
 ## Languages
 
 * [Challenges & Chances In Polyglot Programming](http://youtu.be/VUr_JTNKAFo) [54 min, GOTO 2012] – “Mono cultures are unhealthy.” 'Nuff said!
