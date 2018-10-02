@@ -13,6 +13,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
   Scott Hanselman shows how to achieve more in the time you have,
   by prioritizing the right things, and doing less busy work with no value.
 * [Generating a Culture of Doc](https://youtu.be/v41nPTpXnHQ) [33 min, Write the Docs 2013] – Leah Cutter describes ways to encourage engineers to do the ‘write thing’.
+* [The Etymology of Programming](https://www.youtube.com/watch?v=2KTK2qD4-gs) [24 min, JSConf EU 2018] – Brittany Storoz on the exclusionary use of slang and jargon, and etymologies of some terms. Useful to anyone communicating technology.
 
 
 ## Agile / Team / Management
@@ -44,7 +45,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
 ### Cloud & Containers
 
- * [Project Calico & Istio: Application Connectivity at Scale﻿](https://youtu.be/r3lNEoitxps) [65 min, SRE NYC 2017] – Application connectivity at scale using a service mesh﻿. How *Project Calico* and *Istio* complement each other by covering common requirements in OSI layers 3 to 7. Shortly explains the challenges of managing services, their endpoints, and connecting them, and then shows how the components in the 2 projects help to master them, and where they are placed and play together,
+ * [Project Calico & Istio: Application Connectivity at Scale﻿](https://youtu.be/r3lNEoitxps) [65 min, SRE NYC 2017] – Application connectivity at scale using a service mesh﻿. How *Project Calico* and *Istio* complement each other by covering common requirements in OSI layers 3 to 7. Shortly explains the challenges of managing services, their endpoints, and connecting them, and then shows how the components in the 2 projects help to master them, and where they are placed and play together.
 
 
 ## Tools
