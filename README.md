@@ -14,6 +14,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
   by prioritizing the right things, and doing less busy work with no value.
 * [Generating a Culture of Doc](https://youtu.be/v41nPTpXnHQ) [33 min, Write the Docs 2013] – Leah Cutter describes ways to encourage engineers to do the ‘write thing’.
 * [The Etymology of Programming](https://www.youtube.com/watch?v=2KTK2qD4-gs) [24 min, JSConf EU 2018] – Brittany Storoz on the exclusionary use of slang and jargon, and etymologies of some terms. Useful to anyone communicating technology.
+* [Learning to Love Release Notes](https://www.youtube.com/watch?v=L3yAD319DiU) [22 min, Write the Docs Prague 2018] – Anne Edwards on how she improved the quality of the release notes she got from her devs. Also, a few release-note haikus.
 
 
 ## Agile / Team / Management
