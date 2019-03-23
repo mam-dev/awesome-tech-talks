@@ -46,6 +46,10 @@ and be it only to get a glimpse across the fence (or wall, most often).
 
  * [Project Calico & Istio: Application Connectivity at Scale﻿](https://youtu.be/r3lNEoitxps) [65 min, SRE NYC 2017] – Application connectivity at scale using a service mesh﻿. How *Project Calico* and *Istio* complement each other by covering common requirements in OSI layers 3 to 7. Shortly explains the challenges of managing services, their endpoints, and connecting them, and then shows how the components in the 2 projects help to master them, and where they are placed and play together,
 
+### Linux
+
+ * [The Tragedy of systemd](https://youtu.be/o_AIw9bGogo) [47 min, linux.conf.au 2019] – A balanced view on systemd from a FreeBSD developer.
+
 
 ## Tools
 
