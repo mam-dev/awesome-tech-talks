@@ -73,7 +73,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
 ### Virtualization & Containers
 
 * [Automated Development Environments with Vagrant](http://youtu.be/Im4wNqlolqQ) [52 min, 2013] – Vagrant intro by its author.
-
+* [An introduction to LXD, the container lighter-visor](https://www.youtube.com/watch?v=yEr_EIZG0ZM) [22 min, Container Camp 2015] – Introduction to LXD by Stéphane Graber the LXC and LXD project leader at Canonical Ltd.
 
 ## Other Lists
 
