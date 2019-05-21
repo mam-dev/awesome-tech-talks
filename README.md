@@ -13,6 +13,7 @@ and be it only to get a glimpse across the fence (or wall, most often).
   Scott Hanselman shows how to achieve more in the time you have,
   by prioritizing the right things, and doing less busy work with no value.
 * [Generating a Culture of Doc](https://youtu.be/v41nPTpXnHQ) [33 min, Write the Docs 2013] – Leah Cutter describes ways to encourage engineers to do the ‘write thing’.
+* [Taking back Software Engineering – Craftsmanship is not enough](https://youtu.be/y_hTQCcwE5Q?t=1552) [40 min, JAX 2019] - Dave Farley talks about Software engineering, bridge building, and why craftsmanship is not enough.
 
 
 ## Agile / Team / Management
